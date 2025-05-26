@@ -2,33 +2,27 @@
   {
     "isim": "Masey Ferguson",
     "kalori": "motor Gücü:265 HP,Vites Sistemi: 7 ileri,3Geri, olup Kendisin dünya çapında ismini tanıtmıştir ve daha iybir hale getirmiştir",
-    "karbonhidrat": "Karbonhidrat: 23 gram",
-    "protein": "Protein: 1.1 gram",
-    "yag": "Yag: 0.3 gram",
+    "karbonhidrat": "Massey-Harris ve İngiliz Ferguson Limited ile beraber kurmuşlardır.",
+    "protein": "massey harrin",
     "gorsel": "https://raw.githubusercontent.com/yamanemre367/Traktor/master/masey%20ferguson-4.png"
   },
   {
     "isim": "Fent",
-    "kalori": "351 Kilokalori",
-    "karbonhidrat": "Karbonhidrat: 57.3 gram",
-    "protein": "Protein: 11.3 gram",
-    "yag": "Yag: 5.8 gram",
+    "kalori": "2021",
+    "karbonhidrat": "motor Gücü:380hp,Vites:6ileri.1Geri,6silindir olup dünya Çapında tercih edilen Traktörlerden bir tanesidir.",
+    "protein": "AGCO Corporation",
     "gorsel": "https://raw.githubusercontent.com/yamanemre367/Traktor/master/fent.png"
   },
   {
     "isim": "New Holland ",
-    "kalori": "654 Kilokalori",
-    "karbonhidrat": "Karbonhidrat: 13.7 gram",
-    "protein": "Protein: 15.2 gram",
-    "yag": "Yag: 65.2 gram",
+    "kalori": "2022",
+    "karbonhidrat":"13.7 graMotor Gücü:110hp,Vites:12 ileri,12 geri,kullanılmıştır.Bu traktor kendini gücü olarak tanıtmıştır ve daha iyi bir hale getirmiştir ve getirmeye devam etmektedir.",
     "gorsel": "https://raw.githubusercontent.com/yamanemre367/Traktor/master/new%holland-tasarim-(1).jpg"
   },
   {
     "isim": "Tumosan9115",
-    "kalori": "155 Kilokalori",
-    "karbonhidrat": "Karbonhidrat: 22 gram",
-    "protein": "Protein: 19 gram",
-    "yag": "Yag: 6 gram",
+    "kalori": "2021",
+    "karbonhidrat": "türk traktor tarafından yapılmıştır.",
     "gorsel": "https://raw.githubusercontent.com/yamanemre367/Traktor/master/tumosan9115.jpg"
   }
 ]
